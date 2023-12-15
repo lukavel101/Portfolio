@@ -1,38 +1,18 @@
 <!DOCTYPE html>
 <html>
-<style>
-html{
-background: grey;
-}
-h1{
-color: skyblue;
-font-family: Lucida Handwriting, Cursive;
-}
-body{
-color: white;
-font-family: Georgia,serif;
-}
-h2{
-color: skyblue;
-font-family: Courier New, Monospace;
-}
-</style>
 <head>
+    <style>
+        /* Your existing styles... */
+    </style>
     <title>Luka Veljovic - Resume</title>
 </head>
-
 <body>
-
-
     <h1>Luka Veljovic</h1>
     <img src="https://cdn.britannica.com/39/94839-004-EEB20F36/Flag-Serbia.jpg" alt="alternatetext" width="200" height="100">
   
-    
-    
     <p>808 Indica Street<br>
        Ottawa, ON K2S2M7<br>
        Phone: (613) 915-4660<br>
-       
        Email: <a href="mailto:luka.veljovic101@gmail.com">luka.veljovic101@gmail.com</a>
     </p>
 
@@ -73,5 +53,28 @@ font-family: Courier New, Monospace;
     <p>
         <strong>Job Requirements:</strong> As a Sales Associate, my job was to help customers find what they were looking for as well as providing additional or alternative items that might interest them. I was also in charge of processing customer transactions at the cash register. In addition to my sales role, I served as the Health and Safety Advisor, responsible for ensuring all employees were properly trained to handle equipment and ensuring the store complied with Ontario Labor Law health requirements.
     </p>
+
+    <!-- Yatzy Game Summary and Technical Documentation -->
+    <h2>YATZY GAME SUMMARY</h2>
+    <p>
+        The Yatzyy game was a game I designed based of the game yatzy players would follow the same rules as a yatzy game. Some of the features I added were music to allow for the users to listen to music, and I created some dice animations to make the game feel more authentic and real. Some of the challenges I faced was displaying the scores and calculating them.
+    </p>
+
+    <h2>TECHNICAL DOCUMENTATION</h2>
+    <p>
+        The Yatzy game is a web-based application developed using a combination of JavaScript, HTML, and CSS. Key technical aspects include:
+        <ul>
+            <li><strong>JavaScript Core:</strong> Drives game logic and interactivity, managing game states and dynamic interface updates.</li>
+            <li><strong>HTML Integration:</strong> Structures the game's layout with elements like scoreboards and control buttons.</li>
+            <li><strong>CSS Styling:</strong> Styles the visual aspects and animations for an engaging user experience.</li>
+            <li><strong>Dice Animation:</strong> JavaScript and CSS transformations create realistic dice roll animations.</li>
+            <li><strong>Score Calculation and Display:</strong> Complex logic for calculating and displaying scores based on Yatzy rules.</li>
+            <li><strong>Responsive Design:</strong> Ensures a seamless experience across different devices and screen sizes.</li>
+            <li><strong>Interactive Elements:</strong> Buttons and score selections implemented with JavaScript event listeners.</li>
+            <li><strong>Cross-browser Compatibility:</strong> Tested across multiple browsers for consistent performance.</li>
+        </ul>
+    </p>
+    <!-- End of Yatzy Game Summary and Technical Documentation -->
+
 </body>
 </html>
