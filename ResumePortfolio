@@ -2,7 +2,6 @@
 <html>
 <head>
     <style>
-        /* Your existing styles... */
     </style>
     <title>Luka Veljovic - Resume</title>
 </head>
@@ -73,8 +72,20 @@
             <li><strong>Interactive Elements:</strong> Buttons and score selections implemented with JavaScript event listeners.</li>
             <li><strong>Cross-browser Compatibility:</strong> Tested across multiple browsers for consistent performance.</li>
         </ul>
+ <h2>Hospital Triage System Project</h2>
+    <p>
+        The Hospital Triage System is a web-based application designed for efficient patient management in hospital settings. Key technical aspects include:
+        <ul>
+            <li><strong>HTML and CSS:</strong> Used for structuring and styling the web interface, including forms for user authentication.</li>
+            <li><strong>JavaScript Interactivity:</strong> Enhances user experience with dynamic data updates and real-time information display.</li>
+            <li><strong>Real-Time Data Handling:</strong> Implements AJAX for asynchronous data retrieval, crucial for displaying live hospital data.</li>
+            <li><strong>User Authentication:</strong> Essential for securing patient data, implemented through login forms.</li>
+            <li><strong>Responsive Design:</strong> Adapts to various devices and screen sizes, ensuring broad accessibility.</li>
+            <li><strong>Database Integration:</strong> Utilizes SQL for data management, handling patient information and triage categories.</li>
+        </ul>
     </p>
-    <!-- End of Yatzy Game Summary and Technical Documentation -->
+    </p>
+    <!-- End of Hospital Triage Summary and Technical Documentation -->
 
 </body>
 </html>
